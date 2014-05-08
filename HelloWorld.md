@@ -1,3 +1,1 @@
-This is to learn Github Create new file
-
-Testing
+## This is a markdown file
